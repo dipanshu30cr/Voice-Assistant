@@ -1,0 +1,22 @@
+atif_aslam_songs = {
+    "Tera Hone Laga Hoon - Ajab Prem Ki Ghazab Kahani": "https://www.youtube.com/watch?v=rTuxUAuJRyY&list=PLJ_m5he3U0UyaXCGv01OG1e4yuVMfNmxv&index=1&pp=iAQB8AUB",
+    "Jeene Laga Hoon - Ramaiya Vastavaiya": "https://www.youtube.com/watch?v=XYF3_RH8Hu4",
+    "Tu Jaane Na - Ajab Prem Ki Ghazab Kahani": "https://www.youtube.com/watch?v=gCwUtlJ5hOY",
+    "Tera Ban Jaunga - Kabir Singh": "https://www.youtube.com/watch?v=Iwb2FqO-KRg",
+    "Dil Diyan Gallan - Tiger Zinda Hai": "https://www.youtube.com/watch?v=SAcpESN_Fk4",
+    "Pehli Dafa - Single": "https://www.youtube.com/watch?v=nCD2hj6zJEc",
+    "Tajdar-e-Haram - Coke Studio": "https://www.youtube.com/watch?v=H2Ehkq1aI3w",
+    "Raabta - Agent Vinod": "https://www.youtube.com/watch?v=o2ZKqNUPpbg",
+    "Tere Sang Yaara - Rustom": "https://www.youtube.com/watch?v=0Mjuyn0UsUw",
+    "Kuch Is Tarah - Doorie": "https://www.youtube.com/watch?v=n1imXV5d2KY",
+    "Jeena Jeena - Badlapur": "https://www.youtube.com/watch?v=mSBKZPNTRsA",
+    "O Saathi - Baaghi 2": "https://www.youtube.com/watch?v=VYv1r5s8Pjw",
+    "Piya O Re Piya - Tere Naal Love Ho Gaya": "https://www.youtube.com/watch?v=ZdlcU_6rFPY",
+    "Tera Naam Doon - Entertainment": "https://www.youtube.com/watch?v=ZRS_v2G5Wto",
+    "Main Rang Sharbaton Ka - Phata Poster Nikhla Hero": "https://www.youtube.com/watch?v=zcswo5i9yww",
+    "Be Intehaan - Race 2": "https://www.youtube.com/watch?v=zzXMv-aeCV0",
+    "Doorie - Doorie": "https://www.youtube.com/watch?v=XYeDQs38gkI",
+    "Hona Tha Pyar - Bol": "https://www.youtube.com/watch?v=fSbmD7JaThw",
+    "Woh Lamhe - Zeher": "https://www.youtube.com/watch?v=VZn_9b74scw",
+    "Tera Hone Laga Hoon (Reprise) - Ajab Prem Ki Ghazab Kahani": "https://www.youtube.com/watch?v=zmOtyAVCC9c"
+}
